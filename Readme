@@ -1,0 +1,21 @@
+# Sistema Bancário em Ruby
+
+Este é um projeto simples de sistema bancário escrito em Ruby. Ele simula operações bancárias básicas como criação de contas, depósitos, saques, transferências e pagamento de boletos.
+
+## Funcionalidades
+
+- **Cadastro de Cliente**: Cadastra um cliente com nome, CPF, endereço e telefone.
+- **Abertura de Conta**: Permite abrir contas correntes e contas poupança para clientes.
+- **Operações Bancárias**:
+  - Depósito
+  - Saque
+  - Transferência entre contas
+  - Pagamento de boletos
+- **Histórico de Transações**: Registra o histórico de todas as operações realizadas em uma conta.
+
+## Pré-requisitos
+
+Para rodar o projeto, é necessário ter o Ruby instalado. Verifique a versão do Ruby no terminal com:
+
+```bash
+ruby -v
