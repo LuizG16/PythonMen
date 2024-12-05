@@ -1,6 +1,6 @@
-# Sistema Bancário em Ruby
+# Sistema Bancário em Python
 
-Este é um projeto simples de sistema bancário escrito em Ruby. Ele simula operações bancárias básicas como criação de contas, depósitos, saques, transferências e pagamento de boletos.
+Este é um projeto simples de sistema bancário escrito em Python. Ele simula operações bancárias básicas como criação de contas, depósitos, saques, transferências e pagamento de boletos.
 
 ## Funcionalidades
 
@@ -15,7 +15,4 @@ Este é um projeto simples de sistema bancário escrito em Ruby. Ele simula oper
 
 ## Pré-requisitos
 
-Para rodar o projeto, é necessário ter o Ruby instalado. Verifique a versão do Ruby no terminal com:
-
-```bash
-ruby -v
+Para rodar o projeto, é necessário ter o Python instalado. Verifique a versão do Ruby no terminal com:
